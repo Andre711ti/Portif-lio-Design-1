@@ -1,0 +1,182 @@
+/*==================================sessão Tgs================================*/
+
+body{
+    margin: 0%;
+    text-align: center ;
+    font-family:"montserrat", sans-serif;
+    color: white;
+    
+}
+
+
+
+/*================================sessao tag (MAIN)=========================*/
+main{
+    margin: 0%;
+    text-align: center;
+    font-family: "montserrat", sans-serif;
+    color: black;
+}
+
+h2, h3 {
+
+     color: #11999e ;
+    font-weight: normal;
+    font-size: x-large;
+
+}
+
+a:hover{ color: #174445;
+    
+    
+}
+
+hr{
+    border: dotted,#11999e 0.375em;
+    border-bottom: none;
+    position: relative;
+    width: 2%;
+    margin: 6.25em auto;
+
+}
+
+p{
+    line-height: 2;
+}
+
+
+
+
+
+/*=================================sesão class===============================*/
+.top-conteiner{
+    background-color:#4186bf ;
+    padding-top: 3.125em; ;
+    
+}
+.cerebro{
+    display: inline-block;
+    position: absolute;
+    right: 80%;
+    
+
+}
+.cerebro1{
+    display:inline-block;
+    position: absolute;
+    left:80%;
+    top: 40%;
+ }
+
+ .meu-nome{
+    
+        margin: 0% auto;
+        font-family:"sacramento", cursive;
+        font-size: 5.625rem;
+        color: #13ebe4;
+        font-weight: normal;
+        line-height:2;
+    
+}
+ 
+.descriçao{
+    color: #13ebe4;
+    font-weight: normal;
+    font-size: 2rem;
+}
+ 
+/*=================================main class======================================*/ 
+
+.middle-container{
+    margin:auto;
+    margin-top:6.25rem;
+    margin-bottom: 6.25rem;
+}
+
+
+
+
+.skill-row{
+    width: 50%;
+    margin: 6.25rem auto 6.25rem auto;
+    text-align: left;
+     
+}
+
+.imgcode{
+    width: 25%;
+    float: left;
+    margin-right: 1.87em;
+}
+
+.chilli-img{
+    width: 25%;
+    float: right;
+    margin-left: 1.87em;
+}
+   
+.contrate-me{
+   
+  
+    margin-top: 3.12em;;
+}
+
+
+
+.subtitulo{
+    font-size: medium;
+    margin: auto;
+}
+
+.contato-mensagem{
+    width:40%;
+    margin: 25px auto;
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #2980b9);
+    background-image: -moz-linear-gradient(top, #11cdd4, #2980b9);
+    background-image: -ms-linear-gradient(top, #11cdd4, #2980b9);
+    background-image: -o-linear-gradient(top, #11cdd4, #2980b9);
+    background-image: linear-gradient(to bottom, #11cdd4, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+
+  .bottom-container{
+    height: 70%;
+    background-color:#3e86de;
+    font-size: 0.75rem;
+    
+  }
+
+  .footer-link{
+    
+    position: relative;
+    top: 10px;
+    
+  }
+
+  .marca-dagua{
+    margin-bottom: 0;
+  }
+
+  
+    
